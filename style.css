@@ -14,6 +14,41 @@ body {
 
 }
 
+form { 
+width: 400px; 
+
+margin: 0 auto; 
+
+background-color: #ffffff; 
+
+padding: 30px;
+
+border-radius: 10px; 
+
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+
+display: flex; 
+
+flex-direction: column; 
+
+align-items: center;
+
+font-family: 'Montserrat', sans-serif; 
+
+letter-spacing: 1px; 
+
+color: #fff;
+
+text-shadow: 2px 2px #000; 
+
+margin-bottom: 10px; 
+
+font-size: 24px; 
+
+font-weight: bold; 
+
+text-transform: uppercase;
+
 .video-background {
 
   position: fixed;
