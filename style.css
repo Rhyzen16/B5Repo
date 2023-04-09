@@ -14,6 +14,27 @@ body {
 
 }
 
+form {
+display: flex;
+
+flex-direction: column;
+
+align-items: center; 
+
+font-family: 'Montserrat', sans-serif;
+
+letter-spacing: 1px;
+
+text-shadow: 2px 2px #000; 
+
+margin-bottom: 10px; 
+
+font-size: 24px; 
+
+font-weight: bold;
+
+text-transform: uppercase;
+
 .video-background {
 
   position: fixed;
